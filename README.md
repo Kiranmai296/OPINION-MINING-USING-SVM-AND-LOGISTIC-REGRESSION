@@ -50,11 +50,9 @@ This project performs **Opinion Mining (Sentiment Analysis)** on customer online
 
 ## 📊 Results
 
-| Model                    | Accuracy   |
-| ------------------------ | ---------- |
-| SVM (RBF)    +           |            |
-| Logistic Regression      |            |
-| with Voting Classifier   | **85.44%** |
+| Model                                              | Accuracy   |
+| -------------------------------------------------- | ---------- |
+| SVM + Logistic Regression with Voting Classifier   | **85.44%** |
 
 ---
 
